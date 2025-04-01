@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Ananya Shukla...<br><br>- 📚 I'm currently learning and expanding my skills in advanced technologies.<br>- ⚡ In my free time I enjoy exploring new programming concepts and working on innovative projects.</p>
+<p align="left">Myself Ananya Shukla...<br><br>- 📚 I'm currently learning and expanding my skills in advanced technologies.<br>- ⚡ In my free time I enjoy exploring new programming concepts and working on innovative projects.</p>
 
 ###
 
