@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">hey there 👋I am a passionate developer and coder.</h1>
+<h1 align="center">hey there👋,I am a passionate developer and coder.</h1>
 
 ###
 
